@@ -1,5 +1,5 @@
 # Ancient relic (My first website)
-[![Status](https://status.sobakintech.xyz/api/badge/7/status)](https://status.sobakintech.xyz)
+[![Status](https://status.sobakintech.xyz/api/badge/7/status?style=for-the-badge)](https://status.sobakintech.xyz)
 
 This is my old website that I created a year ago when I first started making TikTok videos. 
 
